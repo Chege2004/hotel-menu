@@ -1,0 +1,84 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "Caesar Salad",
+            "category": "Appetizers",
+            "image": "https://via.placeholder.com/150/caesar_salad.jpg",
+            "ingredients": "Lettuce, croutons, parmesan, Caesar dressing",
+            "price": 8.99
+        },
+        {
+            "id": 2,
+            "name": "Tomato Soup",
+            "category": "Appetizers",
+            "image": "https://via.placeholder.com/150/tomato_soup.jpg",
+            "ingredients": "Tomatoes, cream, basil",
+            "price": 5.99
+        },
+        {
+            "id": 3,
+            "name": "Bruschetta",
+            "category": "Appetizers",
+            "image": "https://via.placeholder.com/150/bruschetta.jpg",
+            "ingredients": "Bread, tomatoes, garlic, basil",
+            "price": 6.5
+        },
+        {
+            "id": 4,
+            "name": "Grilled Salmon",
+            "category": "Main Courses",
+            "image": "https://via.placeholder.com/150/grilled_salmon.jpg",
+            "ingredients": "Salmon, lemon, herbs",
+            "price": 15.99
+        },
+        {
+            "id": 5,
+            "name": "Spaghetti Bolognese",
+            "category": "Main Courses",
+            "image": "https://via.placeholder.com/150/spaghetti_bolognese.jpg",
+            "ingredients": "Pasta, beef, tomato sauce",
+            "price": 12.99
+        },
+        {
+            "id": 6,
+            "name": "Margherita Pizza",
+            "category": "Main Courses",
+            "image": "https://via.placeholder.com/150/margherita_pizza.jpg",
+            "ingredients": "Tomato, mozzarella, basil",
+            "price": 10.99
+        },
+        {
+            "id": 7,
+            "name": "Chocolate Cake",
+            "category": "Desserts",
+            "image": "https://via.placeholder.com/150/chocolate_cake.jpg",
+            "ingredients": "Flour, cocoa, sugar, eggs",
+            "price": 6.99
+        },
+        {
+            "id": 8,
+            "name": "Fruit Salad",
+            "category": "Desserts",
+            "image": "https://via.placeholder.com/150/fruit_salad.jpg",
+            "ingredients": "Mixed fruits, mint",
+            "price": 4.99
+        },
+        {
+            "id": 9,
+            "name": "Cheesecake",
+            "category": "Desserts",
+            "image": "https://via.placeholder.com/150/cheesecake.jpg",
+            "ingredients": "Cream cheese, graham crackers, sugar",
+            "price": 7.99
+        },
+        {
+            "id": 10,
+            "name": "Ice Cream Sundae",
+            "category": "Desserts",
+            "image": "https://via.placeholder.com/150/ice_cream_sundae.jpg",
+            "ingredients": "Ice cream, chocolate syrup, nuts",
+            "price": 5.5
+        }
+    ]
+}
