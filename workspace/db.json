@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Caesar Salad",
             "category": "Appetizers",
-            "image": "https://via.placeholder.com/150/caesar_salad.jpg",
+            "image": "https://images.pexels.com/photos/2097090/pexels-photo-2097090.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "ingredients": "Lettuce, croutons, parmesan, Caesar dressing",
             "price": 8.99
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "name": "Tomato Soup",
             "category": "Appetizers",
-            "image": "https://via.placeholder.com/150/tomato_soup.jpg",
+            "image": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "ingredients": "Tomatoes, cream, basil",
             "price": 5.99
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "name": "Bruschetta",
             "category": "Appetizers",
-            "image": "https://via.placeholder.com/150/bruschetta.jpg",
+            "image": "https://images.pexels.com/photos/6126298/pexels-photo-6126298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "ingredients": "Bread, tomatoes, garlic, basil",
             "price": 6.5
         },
@@ -28,7 +28,7 @@
             "id": 4,
             "name": "Grilled Salmon",
             "category": "Main Courses",
-            "image": "https://via.placeholder.com/150/grilled_salmon.jpg",
+            "image": "https://images.pexels.com/photos/3763847/pexels-photo-3763847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "ingredients": "Salmon, lemon, herbs",
             "price": 15.99
         },
@@ -36,7 +36,7 @@
             "id": 5,
             "name": "Spaghetti Bolognese",
             "category": "Main Courses",
-            "image": "https://via.placeholder.com/150/spaghetti_bolognese.jpg",
+            "image": "https://images.unsplash.com/photo-1567037693-9f37d1230066?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fHNwYWdldHRpIGJvbG9nbmVzaXxlbnwwfHx8fDE2NTYxOTk5OTU&ixlib=rb-1.2.1&q=80&w=400",
             "ingredients": "Pasta, beef, tomato sauce",
             "price": 12.99
         },
@@ -44,7 +44,7 @@
             "id": 6,
             "name": "Margherita Pizza",
             "category": "Main Courses",
-            "image": "https://via.placeholder.com/150/margherita_pizza.jpg",
+            "image": "https://images.pexels.com/photos/13814644/pexels-photo-13814644.jpeg?auto=compress&cs=tinysrgb&w=300",
             "ingredients": "Tomato, mozzarella, basil",
             "price": 10.99
         },
@@ -52,7 +52,7 @@
             "id": 7,
             "name": "Chocolate Cake",
             "category": "Desserts",
-            "image": "https://via.placeholder.com/150/chocolate_cake.jpg",
+            "image": "https://images.pexels.com/photos/1854652/pexels-photo-1854652.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "ingredients": "Flour, cocoa, sugar, eggs",
             "price": 6.99
         },
@@ -60,7 +60,7 @@
             "id": 8,
             "name": "Fruit Salad",
             "category": "Desserts",
-            "image": "https://via.placeholder.com/150/fruit_salad.jpg",
+            "image": "https://images.pexels.com/photos/3085148/pexels-photo-3085148.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "ingredients": "Mixed fruits, mint",
             "price": 4.99
         },
@@ -68,7 +68,7 @@
             "id": 9,
             "name": "Cheesecake",
             "category": "Desserts",
-            "image": "https://via.placeholder.com/150/cheesecake.jpg",
+            "image": "https://images.pexels.com/photos/5852256/pexels-photo-5852256.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "ingredients": "Cream cheese, graham crackers, sugar",
             "price": 7.99
         },
@@ -76,7 +76,7 @@
             "id": 10,
             "name": "Ice Cream Sundae",
             "category": "Desserts",
-            "image": "https://via.placeholder.com/150/ice_cream_sundae.jpg",
+            "image": "https://images.pexels.com/photos/9009957/pexels-photo-9009957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "ingredients": "Ice cream, chocolate syrup, nuts",
             "price": 5.5
         }
