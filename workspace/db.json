@@ -36,8 +36,7 @@
             "id": 5,
             "name": "Spaghetti Bolognese",
             "category": "Main Courses",
-            "image": "https://images.unsplash.com/photo-1567037693-9f37d1230066?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDF8fHNwYWdldHRpIGJvbG9nbmVzaXxlbnwwfHx8fDE2NTYxOTk5OTU&ixlib=rb-1.2.1&q=80&w=400",
-            "ingredients": "Pasta, beef, tomato sauce",
+            "image": "https://images.pexels.com/photos/6287539/pexels-photo-6287539.jpeg?auto=compress&cs=tinysrgb&w=300",
             "price": 12.99
         },
         {
