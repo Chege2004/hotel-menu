@@ -79,5 +79,6 @@
             "ingredients": "Ice cream, chocolate syrup, nuts",
             "price": 5.5
         }
-    ]
+    ],
+    "specialOrders": []
 }
