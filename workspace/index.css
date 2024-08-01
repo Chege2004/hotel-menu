@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    font-family: Arial, sans-serif;
+    background-color:#F8EDE3 ;
+}
+.menu-container {
+    width: 30%;
+    padding: 10px;
+    border-right: 2px solid #080707;
+}
+.menu-item {
+    cursor: pointer;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    background-color: #B4D6CD;
+}
+.menu-item:hover {
+    background-color: yellowgreen;
+    cursor: pointer;
+}
+.details-container {
+    width: 70%;
+    padding: 10px;
+    text-align: center;
+}
+.details-container img {
+    max-width: 100%;
+    height: auto;
+}
