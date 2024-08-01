@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hotel Menu</title>
+    <link rel="stylesheet" href="/workspace/index.css">
+</head>
+<body>
+    <div class="menu-container">
+        <h2>Menu</h2>
+        <hr>
+        <input type="text" id="search" placeholder="Search for food...">
+        <hr>
+        <div id="menu"></div>
+        <div>
+            <h2>Make a special order</h2>
+            <form id="special-order-form">
+                <label for="special-order-name">Dish Name:</label>
+                <input id="special-order-name" type="text" placeholder="Enter dish name" required>
+                
+                <label for="special-order-category">Category:</label>
+                <input id="special-order-category" type="text" placeholder="Enter category" required>
+                
+                <label for="special-order-ingredients">Ingredients:</label>
+                <input id="special-order-ingredients" type="text" placeholder="Enter ingredients" required>
+                <input id="submit" type="submit">
+            </form>
+            <div id="message" style="display: none;">Special order placed successfully!</div>
+        </div>
+    </div>
+    <div class="details-container">
+        <h2>WELCOME</h2>
+        <img id="hotel-image" src="https://images.pexels.com/photos/9380610/pexels-photo-9380610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Hotel">
+        <h2 id="food-name"></h2>
+        <p id="food-category"></p>
+        <p id="food-ingredients"></p>
+        <p id="food-price"></p>
+    </div>
+
+    <script src="/workspace/index.js"></script>
+</body>
+</html>
